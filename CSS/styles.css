@@ -1,7 +1,12 @@
 body {
-    background: #a6f2f7;
+    background: rgb(14, 214, 221);
 }
 
 .container {
     padding: 20px;
+}
+
+.card-body {
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
